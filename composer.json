@@ -1,0 +1,45 @@
+{
+  "name": "token27/slack-bot-team-helper",
+  "type": "javascript",
+  "description": "Slack bot to help a project team",
+  "keywords": [
+    "slack",
+    "bot",
+    "teamwork"
+  ],
+  "homepage": "https://github.com/token27/slack-bot-team-helper",
+  "authors": [
+    {
+      "name": "Token27",
+      "homepage": "https://github.com/token27",
+      "role": "Maintainer"
+    },
+    {
+      "name": "Contributors",
+      "homepage": "https://github.com/token27/slack-bot-team-helper/graphs/contributors",
+      "role": "Contributor"
+    }
+  ],
+  "require": {
+  },
+  "require-dev": {
+  },
+  "support": {
+    "source": "https://github.com/token27/slack-bot-team-helper"
+  },
+  "autoload": {
+    "psr-4": {
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+    }
+  },
+  "prefer-stable": true,
+  "scripts": {
+  },
+  "config": {
+    "sort-packages": true,
+    "process-timeout": 600
+  }
+}

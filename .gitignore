@@ -1,0 +1,28 @@
+# ignore the lockfile for this library
+package-lock.json
+
+# third party libraries
+node_modules/
+
+# temporary editor files
+.idea
+nbproject
+*.swp
+.\#*
+*.sublime-project
+*.sublime-workspace
+
+# runtime files
+*.dat
+*.jpg
+*.lock
+tmp/
+
+# operating system cache files
+.DS_Store
+Desktop.ini
+Thumbs.db
+
+# env
+.env
+.env.backup
